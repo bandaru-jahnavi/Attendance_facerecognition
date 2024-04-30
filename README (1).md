@@ -4,15 +4,6 @@
 A real-world student attendance system which recognizes face of student and attendance of the respective student will be marked automatically on excel sheet
 
 
-
-
-## Authors
-
-- [@TharunreddyR](https://github.com/R-TharunReddy)
-- [@Vamsi Bhogaraju](https://github.com/vamsibhogaraju)
-- [@Navamshuram](https://github.com/R-TharunReddy)
-
-
 ## Demo
 
 
@@ -34,11 +25,6 @@ To use this project run
 - 60fps speed smooth coding while using web cam
 - Automatic attendance savng in csv file
 - Import/Export option for csv files.
-
-
-
-## 🚀 About Me
-I'm a full stack developer...
 
 
 ## Installation
